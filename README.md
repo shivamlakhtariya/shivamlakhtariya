@@ -41,11 +41,6 @@
 
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
-
-
-<br>
-
-        
+       
   ![](https://komarev.com/ghpvc/?username=shivamlakhtariya&style=plastic&label=Stalker+Alert)
         
