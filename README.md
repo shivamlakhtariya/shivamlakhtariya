@@ -26,15 +26,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamlakhtariya&show_icons=true&theme=merko&hide_border=true&locale=en&layout=compact"
         alt="shivamlakhtariya" /></p>
 
-<br>
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=shivamlakhtariya&show_icons=true&theme=merko&hide_border=true&locale=en"
-        alt="shivamlakhtariya" /></p>
 
-<br>
-<p><img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=shivamlakhtariya&show_icons=true&theme=merko&hide_border=true&locale=en"
-        alt="shivamlakhtariya" /></p>
         
   ![](https://komarev.com/ghpvc/?username=shivamlakhtariya&style=plastic&label=Stalker+Alert)
         
