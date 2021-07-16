@@ -18,7 +18,7 @@
   </p>
 <br>
 
-<h3 align="left"> 🌸 languages and tools i've worked with</h3>
+<h3 align="left">  languages and tools i've worked with</h3>
 
 <p float="left">
 
