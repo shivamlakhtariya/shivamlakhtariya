@@ -11,7 +11,11 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/shivam-lakhtariya/" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="vijay-r-a4962620b" height="30" width="40" /></a>
+            alt="shivam-lakhtariya" height="30" width="40" /></a>
+    
+     <a href="https://twitter.com/ShivamLakhtari1?s=08" target="_blank"><img align="center"
+            src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg"
+            alt="ShivamLakhtari1" height="30" width="40" /></a>
    
   </p>
 <br>
@@ -53,3 +57,6 @@
 <p><img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=shivamlakhtariya&show_icons=true&theme=merko&hide_border=true&locale=en"
         alt="shivamlakhtariya" /></p>
+        
+  ![](https://komarev.com/ghpvc/?username=dwvicy&style=plastic&label=Stalker+Alert)
+        
