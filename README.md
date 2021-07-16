@@ -58,5 +58,5 @@
         src="https://github-readme-streak-stats.herokuapp.com/?user=shivamlakhtariya&show_icons=true&theme=merko&hide_border=true&locale=en"
         alt="shivamlakhtariya" /></p>
         
-  ![](https://komarev.com/ghpvc/?username=dwvicy&style=plastic&label=Stalker+Alert)
+  ![](https://komarev.com/ghpvc/?username=shivamlakhtariya&style=plastic&label=Stalker+Alert)
         
