@@ -21,12 +21,6 @@
 <h2 align="left">Languages and Tools:</h2>
 
 
-</p>
-<br><br><br>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"
-            src="https://github-profile-trophy.vercel.app/?username=shivamlakhtariya&theme=juicyfresh&row=2&column=3"
-            alt="shivamlakhtariya" /></a> </p>
-
 <br>
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamlakhtariya&show_icons=true&theme=merko&hide_border=true&locale=en&layout=compact"
