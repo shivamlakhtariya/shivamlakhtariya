@@ -1,16 +1,58 @@
-### Hi there 👋
-
 <!--
 **shivamlakhtariya/shivamlakhtariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Shivam !!</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👨‍💻 All of my projects are available at [https://github.com/shivamlakhtariya](https://github.com/shivamlakhtariya)
+
+- 📫 How to reach me **shivamlakhtariya999@gmail.com**
+
+<br>
+<h2 align="left">Connect with me:</h2>
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/shivam-lakhtariya/" target="_blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="vijay-r-a4962620b" height="30" width="40" /></a>
+   
+  </p>
+<br>
+<h2 align="left">Languages and Tools:</h2>
+
+<p float="left">
+
+
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
+</p>
+<br><br><br>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"
+            src="https://github-profile-trophy.vercel.app/?username=shivamlakhtariya&theme=juicyfresh&row=2&column=3"
+            alt="shivamlakhtariya" /></a> </p>
+
+<br>
+<p><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamlakhtariya&show_icons=true&theme=merko&hide_border=true&locale=en&layout=compact"
+        alt="shivamlakhtariya" /></p>
+
+<br>
+<p>&nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=shivamlakhtariya&show_icons=true&theme=merko&hide_border=true&locale=en"
+        alt="shivamlakhtariya" /></p>
+
+<br>
+<p><img align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=shivamlakhtariya&show_icons=true&theme=merko&hide_border=true&locale=en"
+        alt="shivamlakhtariya" /></p>
