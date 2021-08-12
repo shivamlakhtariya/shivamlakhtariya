@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Shivam !!</h1>
 
 <h3 align="center">  Hi, I'm Shivam Lakhtariya, currently a final year student at SEAS,Ahmedabad University pursuing B.Tech in ICT.</h3>
-<h3 align="center">  I have been worked with Walrus around 3 months(Y Combinator S21).</h4>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamlakhtariya](https://github.com/shivamlakhtariya)
