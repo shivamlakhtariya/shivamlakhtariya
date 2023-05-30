@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Shivam !!</h1>
 
-<h3 align="center">  Hi, I'm Shivam Lakhtariya,completed my B.Tech from SEAS,Ahmedabad University in Information and Communication Technology with major on Computer science.</h3>
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamlakhtariya](https://github.com/shivamlakhtariya)
 - 📫 How to reach me **shivamlakhtariya999@gmail.com**
